@@ -35,8 +35,33 @@ anti-加在名词、形容词前边。最常见的是anti-Japanese抗 RI 战争�
 
 ---
 
-Fear evacuated their minds of reasons.
+Fear evacuated their minds of reasons.  <br />
 恐惧使他们失去了理智
 
-Large classes dilute the quality of education that children receive.
+Large classes dilute the quality of education that children receive.  <br />
 大班上课会降低孩子所受教育的质量。
+
+---
+
+first-ever   史无前例的  <br />
+whatsoever
+
+endorse -- [usually passive] 在(驾驶执照上)记录违章事项
+> You risk having your licence endorsed.
+
+A high-fat diet correlates with a greater risk of heart disease.
+
+---
+
+RTFM -- Read The Fucking Manual (RTBM -- Read The Bloody Manual, RTFS -- Read The Fucking Source, RTFA -- Read The Fucking Article)  <br />
+GIYF -- Google Is Your Friend  <br />
+STFW -- Search The Fucking Web (UTFG -- Use the Fucking Google)  <br />
+JFGI -- Just Fucking Google It  <br />
+
+[RTFM](http://www.readthefuckingmanual.com/)  <br />
+[JFGI](http://jfgi.herokuapp.com/)  <br />
+![I will use Google before asking dumb questions](http://jfgi.herokuapp.com/images/bart.gif)
+
+---
+
+"The Buck Stops Here"
