@@ -1,4 +1,3 @@
-# my_diary
 
 Things to keep an eye on and what I am learning or thinking timelinely.
 
